@@ -11,8 +11,6 @@ export class DbService {
     //     this._client.set("string key", "string val");
     // }
 
-
-
     data: any = {
         "username1": [
             { "content": "haha", "color": "red" },
